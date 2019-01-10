@@ -71,13 +71,13 @@ All materials related to GNN
   * Nell (Toward an architecture for never-ending language learning,AAAI 2010)
 
 ## Open-source Implementations
-* [ChebNet](https://github.com/mdeff/cnn graph)
+* [ChebNet](https://github.com/mdeff/cnn_graph)
 * [1stChebNet](https://github.com/tkipf/gcn)
 * [GGNNs](https://github.com/yujiali/ggnn)
-* [SSE](https://github.com/Hanjun-Dai/steady state embedding)
+* [SSE](https://github.com/Hanjun-Dai/steady_state_embedding)
 * [GraphSage](https://github.com/williamleif/GraphSAGE)
 * [LGCN](https://github.com/williamleif/GraphSAGE)
-* [SplineCNN](https://github.com/rusty1s/pytorch geometric)
+* [SplineCNN](https://github.com/rusty1s/pytorch_geometric)
 * [GAT](https://github.com/PetarV-/GAT)
 * [GAE](https://github.com/limaosen0/Variational-Graph-Auto-Encoders)
 * [ARGA](https://github.com/Ruiqi-Hu/ARGA)
@@ -86,7 +86,7 @@ All materials related to GNN
 * [DRNE](https://github.com/tadpole/DRNE)
 * [GraphRNN](https://github.com/snap-stanford/GraphRNN)
 * [DCRNN](https://github.com/liyaguang/DCRNN)
-* [CNN-GCN](https://github.com/VeritasYin/STGCN IJCAI-18)
+* [CNN-GCN](https://github.com/VeritasYin/STGCN_IJCAI-18)
 * [ST-GCN](https://github.com/yysijie/st-gcn)
 * [Structural RNN](https://github.com/asheshjain399/RNNexp)
 
