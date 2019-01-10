@@ -1,7 +1,7 @@
 # Graph-Neural-Network
 All materials related to GNN
 
-## related survey papers
+## Related survey papers
 * Deep Learning on Graphs: A Survey, arXiv 2018
 * A Comprehensive Survey on Graph Neural Networks,arXiv 2018
 * Graph Neural Networks: A Review of Methods and Applications,arXiv 2018
@@ -95,9 +95,9 @@ All materials related to GNN
 * modeling social influence
   * Deepinf:Modeling influence locality in large social networks,KDD 2018
 * recommendation
-  * Graph convolutional neural networks for web-scale recommender systems,KDD 2018
   * Graph convolutional matrix completion,arXiv 2017
-  * Geometric matrix completion with recurrent multi-graph neural networks,NIPS 2017
+  * Geometric matrix completion with recurrent multi-graph neural networks,ICML 2017
+  * Graph convolutional neural networks for web-scale recommender systems,KDD 2018
 * science
   * Molecular Fingerprints
   * Protein Interface Preidction
