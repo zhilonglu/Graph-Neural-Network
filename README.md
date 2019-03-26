@@ -1,4 +1,4 @@
-# Graph-Neural-Network
+# Graph-Neural-Networks
 All materials related to GNN
 
 ## Related survey papers
@@ -147,3 +147,7 @@ All materials related to GNN
 * Scalability
 * Shallow Structure(graph neural net works are always shallow, most of which are no more than three layers.)
 * Non-Structural Scenarios
+
+
+## some related resources
+* [Awesome-Graph-Neural-Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks)
