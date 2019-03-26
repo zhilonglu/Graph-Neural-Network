@@ -151,3 +151,4 @@ All materials related to GNN
 
 ## some related resources
 * [Awesome-Graph-Neural-Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks)
+* [GNNPaper:Must-read papers](https://github.com/thunlp/GNNPapers) 清华大学NLP组
