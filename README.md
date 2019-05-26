@@ -148,6 +148,8 @@ All materials related to GNN
 * Shallow Structure(graph neural net works are always shallow, most of which are no more than three layers.)
 * Non-Structural Scenarios
 
+## GNN application for specific field
+ * [NLP with GNN](https://github.com/icoxfog417/graph-convolution-nlp)
 
 ## some related resources
 * [Awesome-Graph-Neural-Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks)
