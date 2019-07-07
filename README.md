@@ -155,3 +155,4 @@ All materials related to GNN
 * [Awesome-Graph-Neural-Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks)
 * [GNNPaper:Must-read papers](https://github.com/thunlp/GNNPapers) 清华大学NLP组
 * [GNN相关的一些论文以及最新进展](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress)
+* [Literature of Deep Learning for Graphs](https://github.com/DeepGraphLearning/LiteratureDL4Graph)
