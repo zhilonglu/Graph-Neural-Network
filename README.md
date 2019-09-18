@@ -159,3 +159,4 @@ All materials related to GNN
 * [Graph-based deep learning literature](https://github.com/naganandy/graph-based-deep-learning-literature)
 * [spatio-temporal-paper-list(graph convolutional)](https://github.com/Eilene/spatio-temporal-paper-list)
 * [Python package built to ease deep learning on graph, on top of existing DL frameworks](https://github.com/dmlc/dgl)
+* [对于GNN综述文章的一个整理](https://github.com/ShiYaya/graph)
