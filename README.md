@@ -161,3 +161,4 @@ All materials related to GNN
 * [Python package built to ease deep learning on graph, on top of existing DL frameworks](https://github.com/dmlc/dgl)
 * [对于GNN综述文章的一个整理](https://github.com/ShiYaya/graph)
 * [Geometric Deep Learning Extension Library for PyTorch](https://github.com/rusty1s/pytorch_geometric)
+* [关于GNN的pytorch模型示例](https://github.com/LYuhang/GNN_Review)
