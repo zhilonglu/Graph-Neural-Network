@@ -162,3 +162,4 @@ All materials related to GNN
 * [对于GNN综述文章的一个整理](https://github.com/ShiYaya/graph)
 * [Geometric Deep Learning Extension Library for PyTorch](https://github.com/rusty1s/pytorch_geometric)
 * [关于GNN的pytorch模型示例](https://github.com/LYuhang/GNN_Review)
+* [Graph Neural Networks for Natural Language Processing](https://github.com/svjan5/GNNs-for-NLP)
