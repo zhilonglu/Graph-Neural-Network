@@ -89,6 +89,7 @@ All materials related to GNN
 * [CNN-GCN](https://github.com/VeritasYin/STGCN_IJCAI-18)
 * [ST-GCN](https://github.com/yysijie/st-gcn)
 * [Structural RNN](https://github.com/asheshjain399/RNNexp)
+* [Bilinear GNN](https://github.com/zhuhm1996/bgnn)
 
 
 ## Applications
