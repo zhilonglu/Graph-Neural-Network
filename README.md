@@ -164,3 +164,4 @@ All materials related to GNN
 * [Geometric Deep Learning Extension Library for PyTorch](https://github.com/rusty1s/pytorch_geometric)
 * [关于GNN的pytorch模型示例](https://github.com/LYuhang/GNN_Review)
 * [Graph Neural Networks for Natural Language Processing](https://github.com/svjan5/GNNs-for-NLP)
+* [Graph Neural Network for Traffic Forecasting](https://github.com/jwwthu/GNN4Traffic)
