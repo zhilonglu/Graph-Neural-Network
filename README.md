@@ -90,6 +90,7 @@ All materials related to GNN
 * [ST-GCN](https://github.com/yysijie/st-gcn)
 * [Structural RNN](https://github.com/asheshjain399/RNNexp)
 * [Bilinear GNN](https://github.com/zhuhm1996/bgnn)
+* [PyGAS: Auto-Scaling GNNs in PyG](https://github.com/rusty1s/pyg_autoscale)
 
 
 ## Applications
