@@ -94,50 +94,9 @@ All materials related to GNN
 
 
 ## Applications
-* modeling social influence
-  * Deepinf:Modeling influence locality in large social networks,KDD 2018
-* recommendation
-  * Graph convolutional matrix completion,arXiv 2017
-  * Geometric matrix completion with recurrent multi-graph neural networks,ICML 2017
-  * Graph convolutional neural networks for web-scale recommender systems,KDD 2018
-* science
-  * Molecular Fingerprints
-  * Protein Interface Preidction
-  * chemistry
-  * physics Systems
-  * disease or drug prediction 
-  * Disease Classification
-  * Side Effects Preidction
-* natural language processing (NLP)
-  * Text classification
-  * Sequence Labeling (POS, NER)
-  * Sentiment classification
-  * Semantic role labeling
-  * Neural machine translation
-  * Relation extraction
-  * Event extraction
-  * AMR to text generation
-  * Multi-hop reading comprehension
-* image
-  * Social Relationship Understanding
-  * Image classification
-  * Visual Question Answering
-  * Region Recognition
-  * Semantic Segmentation
-  * computer vision
-  * visual scene understanding tasks
-* knowledge graph
-  * Translating embeddings for modeling multi-relational data,NIPS 2013
-  * Representation learning for visual-relational knowledge graphs,arXiv 2017
-  * Knowledge transfer for out-of-knowledge-base entities : A graph neural network approach,IJCAI 2017
 * traffic forecasting
-  * High-order graph convolutional recurrent neural network: A deep learning framework for network-scale traffic learning and forecasting,arXiv 2018
-  * Spatio-temporal graph convolutional networks:A deep learning framework for traffic forecasting,IJCAI 2018
-  * Diffusion convolutional recurrent neural network: Data-driven traffic forecasting,ICLR 2018
-* program induction
-* few-shot learning
-* multi-agent systems
-* solving graph-based NP problems
+  * [TrafficStream: A Streaming Traffic Flow Forecasting FrameworkBased on Graph Neural Networks and Continual Learning（IJCAI 2021)](https://github.com/AprLie/TrafficStream)
+  * [Spatial-Temporal Graph ODE Neural Network(2021 KDD)](https://github.com/square-coder/STGODE)
 
 ## Future directions
 * Different types of graphs
