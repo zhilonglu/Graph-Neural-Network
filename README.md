@@ -125,3 +125,12 @@ All materials related to GNN
 * [关于GNN的pytorch模型示例](https://github.com/LYuhang/GNN_Review)
 * [Graph Neural Networks for Natural Language Processing](https://github.com/svjan5/GNNs-for-NLP)
 * [Graph Neural Network for Traffic Forecasting](https://github.com/jwwthu/GNN4Traffic)
+
+
+## Researcher and Group
+* Data Mining
+  * [Shirui Pan](https://shiruipan.github.io/)
+  * [Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home)
+  * [Bin Cui](http://net.pku.edu.cn/~cuibin/)
+* CV
+  * [Hengtao Shen](https://cfm.uestc.edu.cn/~shenht/)
