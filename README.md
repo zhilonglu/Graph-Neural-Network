@@ -127,7 +127,7 @@ All materials related to GNN
 * [Graph Neural Network for Traffic Forecasting](https://github.com/jwwthu/GNN4Traffic)
 
 
-## Researcher and Group
+## Researchers and Groups
 * Data Mining
   * [Shirui Pan](https://shiruipan.github.io/)
   * [Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home)
