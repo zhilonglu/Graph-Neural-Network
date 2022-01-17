@@ -97,6 +97,8 @@ All materials related to GNN
 * traffic forecasting
   * [TrafficStream: A Streaming Traffic Flow Forecasting FrameworkBased on Graph Neural Networks and Continual Learning（IJCAI 2021)](https://github.com/AprLie/TrafficStream)
   * [Spatial-Temporal Graph ODE Neural Network(2021 KDD)](https://github.com/square-coder/STGODE)
+* recommendation
+  * [Graph4Rec: A Universal and Large-scale Toolkit with Graph Neural Networks for Recommender Systems](https://github.com/PaddlePaddle/PGL/tree/graph4rec/apps/Graph4Rec)
 
 ## Future directions
 * Different types of graphs
