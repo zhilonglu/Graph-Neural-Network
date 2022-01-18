@@ -99,6 +99,8 @@ All materials related to GNN
   * [Spatial-Temporal Graph ODE Neural Network(2021 KDD)](https://github.com/square-coder/STGODE)
 * recommendation
   * [Graph4Rec: A Universal and Large-scale Toolkit with Graph Neural Networks for Recommender Systems](https://github.com/PaddlePaddle/PGL/tree/graph4rec/apps/Graph4Rec)
+* differential privacy
+  * [differential privacy](https://github.com/tensorflow/privacy)
 
 ## Future directions
 * Different types of graphs
