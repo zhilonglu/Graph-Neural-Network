@@ -127,6 +127,7 @@ All materials related to GNN
 * [关于GNN的pytorch模型示例](https://github.com/LYuhang/GNN_Review)
 * [Graph Neural Networks for Natural Language Processing](https://github.com/svjan5/GNNs-for-NLP)
 * [Graph Neural Network for Traffic Forecasting](https://github.com/jwwthu/GNN4Traffic)
+* [self-supervised learning on Graph Neural Networks](https://github.com/ChandlerBang/awesome-self-supervised-gnn)
 
 
 ## Researchers and Groups
