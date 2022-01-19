@@ -119,12 +119,12 @@ All materials related to GNN
  * [NLP with GNN](https://github.com/icoxfog417/graph-convolution-nlp)
 
 ## some related resources
-* [Awesome-Graph-Neural-Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks)
+* [Awesome Graph Neural Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks)
 * [GNNPaper:Must-read papers](https://github.com/thunlp/GNNPapers) 清华大学NLP组
 * [GNN相关的一些论文以及最新进展](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress)
 * [Literature of Deep Learning for Graphs](https://github.com/DeepGraphLearning/LiteratureDL4Graph)
 * [Graph-based deep learning literature](https://github.com/naganandy/graph-based-deep-learning-literature)
-* [spatio-temporal-paper-list(graph convolutional)](https://github.com/Eilene/spatio-temporal-paper-list)
+* [spatio temporal-paper-list(graph convolutional)](https://github.com/Eilene/spatio-temporal-paper-list)
 * [Python package built to ease deep learning on graph, on top of existing DL frameworks](https://github.com/dmlc/dgl)
 * [对于GNN综述文章的一个整理](https://github.com/ShiYaya/graph)
 * [Geometric Deep Learning Extension Library for PyTorch](https://github.com/rusty1s/pytorch_geometric)
@@ -132,6 +132,7 @@ All materials related to GNN
 * [Graph Neural Networks for Natural Language Processing](https://github.com/svjan5/GNNs-for-NLP)
 * [Graph Neural Network for Traffic Forecasting](https://github.com/jwwthu/GNN4Traffic)
 * [self-supervised learning on Graph Neural Networks](https://github.com/ChandlerBang/awesome-self-supervised-gnn)
+* [awesome auto graph learning](https://github.com/THUMNLab/awesome-auto-graph-learning)
 
 
 ## Researchers and Groups
