@@ -133,6 +133,7 @@ All materials related to GNN
 * [Graph Neural Network for Traffic Forecasting](https://github.com/jwwthu/GNN4Traffic)
 * [self-supervised learning on Graph Neural Networks](https://github.com/ChandlerBang/awesome-self-supervised-gnn)
 * [awesome auto graph learning](https://github.com/THUMNLab/awesome-auto-graph-learning)
+* [A Survey of Pretraining on Graphs: Taxonomy, Methods, and Applications](https://github.com/junxia97/awesome-pretrain-on-graphs)
 
 
 ## Researchers and Groups
