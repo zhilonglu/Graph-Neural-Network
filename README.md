@@ -135,6 +135,7 @@ All materials related to GNN
 * [awesome auto graph learning](https://github.com/THUMNLab/awesome-auto-graph-learning)
 * [A Survey of Pretraining on Graphs: Taxonomy, Methods, and Applications](https://github.com/junxia97/awesome-pretrain-on-graphs)
 * [Reinforcement learning on graphs: A survey](https://github.com/neunms/Reinforcement-learning-on-graphs-A-survey)
+* [A Python Library for Graph Outlier Detection (Anomaly Detection)](https://github.com/pygod-team/pygod/)
 
 
 ## Researchers and Groups
