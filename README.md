@@ -93,6 +93,11 @@ All materials related to GNN
 * [PyGAS: Auto-Scaling GNNs in PyG](https://github.com/rusty1s/pyg_autoscale)
 
 
+## Platform
+* [AliGraph: A comprehensive graph neural network platform](https://github.com/alibaba/graph-learn)
+* [DistDGL: Distributed graph neural network training for billion-scale graphs](https://github.com/dmlc/dgl/tree/master/python/dgl/distributed)
+* [DGL is an easy-to-use, high performance and scalable Python package for deep learning on graphs](https://github.com/dmlc/dgl)
+
 ## Applications
 * traffic forecasting
   * [TrafficStream: A Streaming Traffic Flow Forecasting FrameworkBased on Graph Neural Networks and Continual Learning（IJCAI 2021)](https://github.com/AprLie/TrafficStream)
