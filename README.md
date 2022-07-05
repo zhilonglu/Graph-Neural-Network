@@ -106,6 +106,10 @@ All materials related to GNN
   * [Graph4Rec: A Universal and Large-scale Toolkit with Graph Neural Networks for Recommender Systems](https://github.com/PaddlePaddle/PGL/tree/graph4rec/apps/Graph4Rec)
 * differential privacy
   * [differential privacy](https://github.com/tensorflow/privacy)
+* link prediction
+  * [Neo-GNNs: Neighborhood Overlap-aware Graph Neural Networks for Link Prediction](https://github.com/seongjunyun/Neo-GNNs)
+* interpretability
+  * [A Benchmark for Assessing Graph Neural Network Explanations](https://github.com/Mandeep-Rathee/Bagel-benchmark)
 
 ## Future directions
 * Different types of graphs
@@ -141,6 +145,7 @@ All materials related to GNN
 * [A Survey of Pretraining on Graphs: Taxonomy, Methods, and Applications](https://github.com/junxia97/awesome-pretrain-on-graphs)
 * [Reinforcement learning on graphs: A survey](https://github.com/neunms/Reinforcement-learning-on-graphs-A-survey)
 * [A Python Library for Graph Outlier Detection (Anomaly Detection)](https://github.com/pygod-team/pygod/)
+* [A Python Library for Graph Outlier Detection](https://github.com/pygod-team/pygod/)
 
 
 ## Researchers and Groups
