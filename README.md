@@ -91,6 +91,7 @@ All materials related to GNN
 * [Structural RNN](https://github.com/asheshjain399/RNNexp)
 * [Bilinear GNN](https://github.com/zhuhm1996/bgnn)
 * [PyGAS: Auto-Scaling GNNs in PyG](https://github.com/rusty1s/pyg_autoscale)
+* [Soft-mask: Adaptive Substructure Extractions for Graph Neural Networks](https://github.com/qslim/soft-mask-gnn)
 
 
 ## Platform
