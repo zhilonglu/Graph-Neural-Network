@@ -92,6 +92,7 @@ All materials related to GNN
 * [Bilinear GNN](https://github.com/zhuhm1996/bgnn)
 * [PyGAS: Auto-Scaling GNNs in PyG](https://github.com/rusty1s/pyg_autoscale)
 * [Soft-mask: Adaptive Substructure Extractions for Graph Neural Networks](https://github.com/qslim/soft-mask-gnn)
+* [IVGD: Invertible Validity-aware Graph Diffusion](https://github.com/xianggebenben/IVGD)
 
 
 ## Platform
@@ -103,6 +104,7 @@ All materials related to GNN
 * traffic forecasting
   * [TrafficStream: A Streaming Traffic Flow Forecasting FrameworkBased on Graph Neural Networks and Continual Learning（IJCAI 2021)](https://github.com/AprLie/TrafficStream)
   * [Spatial-Temporal Graph ODE Neural Network(2021 KDD)](https://github.com/square-coder/STGODE)
+  * [Decoupled Dynamic Spatial-Temporal Graph Neural Network for Traffic Forecasting](https://github.com/zezhishao/D2STGNN)
 * recommendation
   * [Graph4Rec: A Universal and Large-scale Toolkit with Graph Neural Networks for Recommender Systems](https://github.com/PaddlePaddle/PGL/tree/graph4rec/apps/Graph4Rec)
 * differential privacy
@@ -111,6 +113,8 @@ All materials related to GNN
   * [Neo-GNNs: Neighborhood Overlap-aware Graph Neural Networks for Link Prediction](https://github.com/seongjunyun/Neo-GNNs)
 * interpretability
   * [A Benchmark for Assessing Graph Neural Network Explanations](https://github.com/Mandeep-Rathee/Bagel-benchmark)
+* source localization
+  * [Source Localization VAE](https://github.com/triplej0079/SLVAE)
 
 ## Future directions
 * Different types of graphs
