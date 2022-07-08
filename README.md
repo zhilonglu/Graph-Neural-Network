@@ -93,7 +93,7 @@ All materials related to GNN
 * [PyGAS: Auto-Scaling GNNs in PyG](https://github.com/rusty1s/pyg_autoscale)
 * [Soft-mask: Adaptive Substructure Extractions for Graph Neural Networks](https://github.com/qslim/soft-mask-gnn)
 * [IVGD: Invertible Validity-aware Graph Diffusion](https://github.com/xianggebenben/IVGD)
-
+* [Graph Attention Multi-Layer Perceptron](https://github.com/PKU-DAIR/GAMLP)
 
 ## Platform
 * [AliGraph: A comprehensive graph neural network platform](https://github.com/alibaba/graph-learn)
