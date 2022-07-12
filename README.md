@@ -95,6 +95,7 @@ All materials related to GNN
 * [IVGD: Invertible Validity-aware Graph Diffusion](https://github.com/xianggebenben/IVGD)
 * [Graph Attention Multi-Layer Perceptron](https://github.com/PKU-DAIR/GAMLP)
 * [Structured Variational Graph Autoencoder](https://github.com/snudatalab/SVGA)
+* [GTaxoGym: Taxonomy of Benchmarks in Graph Representation Learning](https://github.com/G-Taxonomy-Workgroup/GTaxoGym)
 
 ## Platform
 * [AliGraph: A comprehensive graph neural network platform](https://github.com/alibaba/graph-learn)
