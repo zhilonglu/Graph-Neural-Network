@@ -107,6 +107,7 @@ All materials related to GNN
   * [TrafficStream: A Streaming Traffic Flow Forecasting FrameworkBased on Graph Neural Networks and Continual Learning（IJCAI 2021)](https://github.com/AprLie/TrafficStream)
   * [Spatial-Temporal Graph ODE Neural Network(2021 KDD)](https://github.com/square-coder/STGODE)
   * [Decoupled Dynamic Spatial-Temporal Graph Neural Network for Traffic Forecasting](https://github.com/zezhishao/D2STGNN)
+  * [MegaCRN: Meta-Graph Convolutional Recurrent Network](https://github.com/deepkashiwa20/MegaCRN)
 * recommendation
   * [Graph4Rec: A Universal and Large-scale Toolkit with Graph Neural Networks for Recommender Systems](https://github.com/PaddlePaddle/PGL/tree/graph4rec/apps/Graph4Rec)
 * differential privacy
