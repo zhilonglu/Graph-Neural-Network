@@ -109,6 +109,8 @@ All materials related to GNN
   * [Decoupled Dynamic Spatial-Temporal Graph Neural Network for Traffic Forecasting](https://github.com/zezhishao/D2STGNN)
   * [MegaCRN: Meta-Graph Convolutional Recurrent Network](https://github.com/deepkashiwa20/MegaCRN)
   * [DAAGCN: Dynamic Adaptive and Adversarial Graph Convolutional Network for Traffic Forecasting](https://github.com/juyongjiang/DAAGCN)
+  * [Combined Dynamic Virtual Spatiotemporal Graph Mapping for Traffic Prediction](https://github.com/Dandelionym/CDVGM)
+  * [FOGS: First-Order Gradient Supervision with Learning-based Graph for Traffic Flow Forecasting](https://github.com/kevin-xuan/FOGS)
 * recommendation
   * [Graph4Rec: A Universal and Large-scale Toolkit with Graph Neural Networks for Recommender Systems](https://github.com/PaddlePaddle/PGL/tree/graph4rec/apps/Graph4Rec)
 * differential privacy
