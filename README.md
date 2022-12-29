@@ -123,6 +123,8 @@ All materials related to GNN
   * [A Benchmark for Assessing Graph Neural Network Explanations](https://github.com/Mandeep-Rathee/Bagel-benchmark)
 * source localization
   * [Source Localization VAE](https://github.com/triplej0079/SLVAE)
+* Calibration
+  * [What Makes Graph Neural Networks Miscalibrated?](https://github.com/hans66hsu/GATS)
 
 ## Future directions
 * Different types of graphs
