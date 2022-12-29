@@ -125,6 +125,8 @@ All materials related to GNN
   * [Source Localization VAE](https://github.com/triplej0079/SLVAE)
 * Calibration
   * [What Makes Graph Neural Networks Miscalibrated?](https://github.com/hans66hsu/GATS)
+* Transformer
+  * [Hierarchical Graph Transformer with Adaptive Node Sampling](https://github.com/zaixizhang/ANS-GT)
 
 ## Future directions
 * Different types of graphs
