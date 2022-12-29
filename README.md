@@ -96,6 +96,7 @@ All materials related to GNN
 * [Graph Attention Multi-Layer Perceptron](https://github.com/PKU-DAIR/GAMLP)
 * [Structured Variational Graph Autoencoder](https://github.com/snudatalab/SVGA)
 * [GTaxoGym: Taxonomy of Benchmarks in Graph Representation Learning](https://github.com/G-Taxonomy-Workgroup/GTaxoGym)
+* [A Survey of Deep Graph Clustering: Taxonomy, Challenge, and Application](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering)
 
 ## Platform
 * [AliGraph: A comprehensive graph neural network platform](https://github.com/alibaba/graph-learn)
